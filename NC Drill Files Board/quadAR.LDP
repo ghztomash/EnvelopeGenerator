@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\Altium\Projects\GHz Labs\AR_Envelope_0.2\quadAR.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=quadar-roundholes-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=quadar-slotholes-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=quadar-roundholes-nonplated.txt|DrillLayers=gtl,gbl

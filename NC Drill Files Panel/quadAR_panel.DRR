@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: quadAR_panel.PcbDoc   11/19/2017  11:09:20 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Non-Plated RoundHoles File : quadAR_panel-RoundHoles-NonPlated.TXT
+ASCII Non-Plated SlotHoles File : quadAR_panel-SlotHoles-NonPlated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      3.1mm (122mil)                                            Round             4         NPTH       80.00mm (3.15inch)
+T2      3.8mm (150mil)                                            Slot              4         NPTH       477.34mm (18.79inch)
+T3      6.8mm (268mil)                                            Round             8         NPTH       278.00mm (10.94inch)
+T4      7.5mm (295mil)                                            Round             8         NPTH       172.00mm (6.77inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              24
+
+Total Processing Time (hh:mm:ss) : 00:00:00
